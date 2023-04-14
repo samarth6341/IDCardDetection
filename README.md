@@ -1,6 +1,8 @@
 # IDCardDetection
 This is a custom object detection model that can detect ID cards using the YOLOv8 architecture. The model has been trained on a custom dataset of ID card images.
 
+![gitpicid](https://user-images.githubusercontent.com/99131011/232127914-37115914-8755-4a27-9165-ebde0eb5e3de.jpg)
+
 ## Dataset
 The custom dataset used to train the model consists of images of ID cards from different countries, with varying backgrounds, orientations, and lighting conditions. The dataset was annotated using the Roboflow Annotation tool to mark the regions of interest (ROIs) for each ID card in the images. 
 
